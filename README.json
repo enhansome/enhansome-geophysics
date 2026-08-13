@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "description": "Enhance your geophysical workflows with these essential software solutions:",
+      "items": [],
+      "title": "Software and Tools"
+    },
+    {
+      "description": "Build and refine your geophysics knowledge with these top-tier learning materials:",
+      "items": [],
+      "title": "Educational Resources"
+    },
+    {
+      "description": "Comprehensive learning materials covering various aspects of geophysics:",
+      "items": [],
+      "title": "Textbooks"
+    },
+    {
+      "description": "Expand your knowledge with these online courses and tutorials:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Teaching material for ErSE 210 Seismology course GitHub Repo.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-30T13:42:12Z",
+            "owner": "DIG-Kaust",
+            "repo": "Seismology",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Course material for the lecture (SS 2019) at the Institute of Geosciences (Department of Geophysics), Christian-Albrechts-University Kiel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-18T00:16:02Z",
+            "owner": "daniel-koehn",
+            "repo": "Theory-of-seismic-waves-II",
+            "stars": 137
+          }
+        }
+      ],
+      "title": "Online Courses and Tutorials"
+    },
+    {
+      "description": "Explore graduate programs, summer schools, and certificate courses in geosciences for deeper academic training.",
+      "items": [],
+      "title": "University Programs and Certificates"
+    },
+    {
+      "description": "Network with leading experts, researchers, and industry professionals in geophysics through these key organizations:",
+      "items": [],
+      "title": "Organizations and Societies"
+    },
+    {
+      "description": "Engage with the geophysics community through diverse media channels:",
+      "items": [],
+      "title": "Blogs, Podcasts, and Community Forums"
+    },
+    {
+      "description": "Stay informed with the latest trends, breakthroughs, and market news in geophysics:",
+      "items": [],
+      "title": "Industry News and Updates"
+    },
+    {
+      "description": "A few additional resources to enhance your geophysical toolkit:",
+      "items": [],
+      "title": "Miscellaneous Resources"
+    },
+    {
+      "description": "Thanks to our many contributors!\n",
+      "items": [],
+      "title": "Contributors"
+    },
+    {
+      "description": "To the extent possible under law, all contributors have waived all copyright and related or neighboring rights to this work.\nWhether you're diving into seismic data processing, modeling Earth's subsurface, or simply looking for inspiration, we invite you to explore, share, and contribute. Let's push the boundaries of geophysical exploration and understanding—together!",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:25.923Z",
+    "original_repository": "aradfarahani/awesome-geophysics",
+    "original_repository_sha": "172ef74fc0adb4336b8883bcbc772eb31cdf3350",
+    "enhanced_repository": "enhansome/enhansome-geophysics",
+    "enhanced_repository_description": null,
+    "title": "Awesome Geophysics with stars"
+  }
+}
