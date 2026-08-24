@@ -1,14 +1,1280 @@
 {
   "items": [
     {
+      "description": "Enhance your geophysical workflows with these essential software solutions:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "auralib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66078388,
+            "language": "Python",
+            "last_commit": "2022-09-16T03:18:39Z",
+            "owner": "whamlyn",
+            "repo": "auralib",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auralib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66078388,
+            "language": "Python",
+            "last_commit": "2022-09-16T03:18:39Z",
+            "owner": "whamlyn",
+            "repo": "auralib",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bh_tomo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51932458,
+            "language": "MATLAB",
+            "last_commit": "2019-12-08T20:26:34Z",
+            "owner": "groupeLIAMG",
+            "repo": "bh_tomo",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bh_tomo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51932458,
+            "language": "MATLAB",
+            "last_commit": "2019-12-08T20:26:34Z",
+            "owner": "groupeLIAMG",
+            "repo": "bh_tomo",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bruges",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12648494,
+            "language": "Python",
+            "last_commit": "2023-12-19T10:52:54Z",
+            "owner": "agilescientific",
+            "repo": "bruges",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bruges",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12648494,
+            "language": "Python",
+            "last_commit": "2023-12-19T10:52:54Z",
+            "owner": "agilescientific",
+            "repo": "bruges",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celeri",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 392800928,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-22T07:18:50Z",
+            "owner": "brendanjmeade",
+            "repo": "celeri",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celeri",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 392800928,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-22T07:18:50Z",
+            "owner": "brendanjmeade",
+            "repo": "celeri",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepwave",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140950399,
+            "language": "Python",
+            "last_commit": "2026-07-02T18:23:04Z",
+            "owner": "ar4",
+            "repo": "deepwave",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepwave",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140950399,
+            "language": "Python",
+            "last_commit": "2026-07-02T18:23:04Z",
+            "owner": "ar4",
+            "repo": "deepwave",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disba",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 273145262,
+            "language": "Python",
+            "last_commit": "2024-12-19T19:24:29Z",
+            "owner": "keurfonluu",
+            "repo": "disba",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disba",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 273145262,
+            "language": "Python",
+            "last_commit": "2024-12-19T19:24:29Z",
+            "owner": "keurfonluu",
+            "repo": "disba",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EQcorrscan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35918157,
+            "language": "Python",
+            "last_commit": "2026-05-07T21:57:26Z",
+            "owner": "eqcorrscan",
+            "repo": "EQcorrscan",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EQcorrscan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35918157,
+            "language": "Python",
+            "last_commit": "2026-05-07T21:57:26Z",
+            "owner": "eqcorrscan",
+            "repo": "EQcorrscan",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "first_break_picking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 661835295,
+            "language": "Python",
+            "last_commit": "2025-01-24T06:03:15Z",
+            "owner": "geo-stack",
+            "repo": "first_break_picking",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "first_break_picking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 661835295,
+            "language": "Python",
+            "last_commit": "2025-01-24T06:03:15Z",
+            "owner": "geo-stack",
+            "repo": "first_break_picking",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gempy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96211155,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:29:00Z",
+            "owner": "gempy-project",
+            "repo": "gempy",
+            "stars": 1335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gempy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96211155,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:29:00Z",
+            "owner": "gempy-project",
+            "repo": "gempy",
+            "stars": 1335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geoelectricspy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782733331,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-08T13:28:00Z",
+            "owner": "aradfarahani",
+            "repo": "Geoelectricspy",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geoelectricspy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782733331,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-08T13:28:00Z",
+            "owner": "aradfarahani",
+            "repo": "Geoelectricspy",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoPhyInv.jl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81269297,
+            "language": "Julia",
+            "last_commit": "2025-12-08T05:23:00Z",
+            "owner": "pawbz",
+            "repo": "GeoPhyInv.jl",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoPhyInv.jl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81269297,
+            "language": "Julia",
+            "last_commit": "2025-12-08T05:23:00Z",
+            "owner": "pawbz",
+            "repo": "GeoPhyInv.jl",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPRPy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127988827,
+            "language": "Python",
+            "last_commit": "2026-04-06T14:47:53Z",
+            "owner": "NSGeophysics",
+            "repo": "GPRPy",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPRPy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127988827,
+            "language": "Python",
+            "last_commit": "2026-04-06T14:47:53Z",
+            "owner": "NSGeophysics",
+            "repo": "GPRPy",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hvsrpy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219310971,
+            "language": "Python",
+            "last_commit": "2026-04-17T19:48:30Z",
+            "owner": "jpvantassel",
+            "repo": "hvsrpy",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hvsrpy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219310971,
+            "language": "Python",
+            "last_commit": "2026-04-17T19:48:30Z",
+            "owner": "jpvantassel",
+            "repo": "hvsrpy",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hypopy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97037021,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-19T21:14:06Z",
+            "owner": "groupeLIAMG",
+            "repo": "hypopy",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hypopy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97037021,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-19T21:14:06Z",
+            "owner": "groupeLIAMG",
+            "repo": "hypopy",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Source",
+          "description": "Open source chunked and compressed cloud storage for seismic data based on Zarr with fast seismic ingestion and export tools – Docs, Source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 526687085,
+            "language": "Python",
+            "last_commit": "2026-08-21T14:15:28Z",
+            "owner": "TGSAI",
+            "repo": "mdio-python",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modelr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4182566,
+            "language": "Python",
+            "last_commit": "2024-03-17T10:37:45Z",
+            "owner": "agilescientific",
+            "repo": "modelr",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modelr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4182566,
+            "language": "Python",
+            "last_commit": "2024-03-17T10:37:45Z",
+            "owner": "agilescientific",
+            "repo": "modelr",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obspy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5731348,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:22:44Z",
+            "owner": "obspy",
+            "repo": "obspy",
+            "stars": 1329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obspy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5731348,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:22:44Z",
+            "owner": "obspy",
+            "repo": "obspy",
+            "stars": 1329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpendTect-Plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24052587,
+            "language": "C++",
+            "last_commit": "2026-02-12T01:43:22Z",
+            "owner": "waynegm",
+            "repo": "OpendTect-Plugins",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpendTect-Plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24052587,
+            "language": "C++",
+            "last_commit": "2026-02-12T01:43:22Z",
+            "owner": "waynegm",
+            "repo": "OpendTect-Plugins",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSeaSeis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52898467,
+            "language": "C++",
+            "last_commit": "2020-02-18T15:21:37Z",
+            "owner": "JohnWStockwellJr",
+            "repo": "OpenSeaSeis",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSeaSeis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52898467,
+            "language": "C++",
+            "last_commit": "2020-02-18T15:21:37Z",
+            "owner": "JohnWStockwellJr",
+            "repo": "OpenSeaSeis",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pastas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56300322,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:05:42Z",
+            "owner": "pastas",
+            "repo": "pastas",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pastas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56300322,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:05:42Z",
+            "owner": "pastas",
+            "repo": "pastas",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyekfmm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 601804193,
+            "language": "Python",
+            "last_commit": "2026-01-26T03:34:37Z",
+            "owner": "aaspip",
+            "repo": "pyekfmm",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyekfmm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 601804193,
+            "language": "Python",
+            "last_commit": "2026-01-26T03:34:37Z",
+            "owner": "aaspip",
+            "repo": "pyekfmm",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PySeis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11085775,
+            "language": "HTML",
+            "last_commit": "2025-11-28T04:31:02Z",
+            "owner": "stuliveshere",
+            "repo": "PySeis",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PySeis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11085775,
+            "language": "HTML",
+            "last_commit": "2025-11-28T04:31:02Z",
+            "owner": "stuliveshere",
+            "repo": "PySeis",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyvds",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 391019016,
+            "language": "Python",
+            "last_commit": "2024-07-10T07:31:01Z",
+            "owner": "equinor",
+            "repo": "pyvds",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyvds",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 391019016,
+            "language": "Python",
+            "last_commit": "2024-07-10T07:31:01Z",
+            "owner": "equinor",
+            "repo": "pyvds",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyzgy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 397960575,
+            "language": "Python",
+            "last_commit": "2026-02-19T12:49:13Z",
+            "owner": "equinor",
+            "repo": "pyzgy",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyzgy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 397960575,
+            "language": "Python",
+            "last_commit": "2026-02-19T12:49:13Z",
+            "owner": "equinor",
+            "repo": "pyzgy",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAGU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193940796,
+            "language": "Python",
+            "last_commit": "2026-07-27T03:45:07Z",
+            "owner": "btobers",
+            "repo": "RAGU",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAGU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193940796,
+            "language": "Python",
+            "last_commit": "2026-07-27T03:45:07Z",
+            "owner": "btobers",
+            "repo": "RAGU",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readgssi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110361541,
+            "language": "Python",
+            "last_commit": "2025-07-11T16:04:14Z",
+            "owner": "iannesbitt",
+            "repo": "readgssi",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "readgssi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110361541,
+            "language": "Python",
+            "last_commit": "2025-07-11T16:04:14Z",
+            "owner": "iannesbitt",
+            "repo": "readgssi",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recast",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 591027998,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-08T23:29:43Z",
+            "owner": "keliankaz",
+            "repo": "recast",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recast",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 591027998,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-08T23:29:43Z",
+            "owner": "keliankaz",
+            "repo": "recast",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REDPy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20038635,
+            "language": "Python",
+            "last_commit": "2023-12-14T22:54:03Z",
+            "owner": "ahotovec",
+            "repo": "REDPy",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REDPy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20038635,
+            "language": "Python",
+            "last_commit": "2023-12-14T22:54:03Z",
+            "owner": "ahotovec",
+            "repo": "REDPy",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refrapy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 893938146,
+            "language": "Python",
+            "last_commit": "2025-03-17T18:44:29Z",
+            "owner": "AlgoSismos",
+            "repo": "Refrapy",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refrapy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 893938146,
+            "language": "Python",
+            "last_commit": "2025-03-17T18:44:29Z",
+            "owner": "AlgoSismos",
+            "repo": "Refrapy",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RGPR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37463448,
+            "language": "R",
+            "last_commit": "2026-08-22T19:55:28Z",
+            "owner": "emanuelhuber",
+            "repo": "RGPR",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RGPR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37463448,
+            "language": "R",
+            "last_commit": "2026-08-22T19:55:28Z",
+            "owner": "emanuelhuber",
+            "repo": "RGPR",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rsudp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221754685,
+            "language": "Python",
+            "last_commit": "2025-04-25T20:33:21Z",
+            "owner": "raspishake",
+            "repo": "rsudp",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rsudp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221754685,
+            "language": "Python",
+            "last_commit": "2025-04-25T20:33:21Z",
+            "owner": "raspishake",
+            "repo": "rsudp",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segyio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69360747,
+            "language": "Python",
+            "last_commit": "2025-12-03T15:23:36Z",
+            "owner": "equinor",
+            "repo": "segyio",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "segyio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69360747,
+            "language": "Python",
+            "last_commit": "2025-12-03T15:23:36Z",
+            "owner": "equinor",
+            "repo": "segyio",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seiscomp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250227387,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:27:40Z",
+            "owner": "SeisComP",
+            "repo": "seiscomp",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seiscomp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250227387,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:27:40Z",
+            "owner": "SeisComP",
+            "repo": "seiscomp",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seismic_BPMF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346391253,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:31:57Z",
+            "owner": "ebeauce",
+            "repo": "Seismic_BPMF",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seismic_BPMF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346391253,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:31:57Z",
+            "owner": "ebeauce",
+            "repo": "Seismic_BPMF",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seismic-zfp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216040753,
+            "language": "Python",
+            "last_commit": "2026-04-28T13:13:46Z",
+            "owner": "equinor",
+            "repo": "seismic-zfp",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convert SEG-Y/ZGY files to compressed SGZ files",
+          "description": "& retrieve arbitrary sub-volumes from these, fast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216040753,
+            "language": "Python",
+            "last_commit": "2026-04-28T13:13:46Z",
+            "owner": "equinor",
+            "repo": "seismic-zfp",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seismic-zfp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216040753,
+            "language": "Python",
+            "last_commit": "2026-04-28T13:13:46Z",
+            "owner": "equinor",
+            "repo": "seismic-zfp",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeisUnix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53870336,
+            "language": "AGS Script",
+            "last_commit": "2024-09-07T02:58:43Z",
+            "owner": "JohnWStockwellJr",
+            "repo": "SeisUnix",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeisUnix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53870336,
+            "language": "AGS Script",
+            "last_commit": "2024-09-07T02:58:43Z",
+            "owner": "JohnWStockwellJr",
+            "repo": "SeisUnix",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeisWiz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 738970602,
+            "language": "Python",
+            "last_commit": "2024-01-30T15:57:04Z",
+            "owner": "amustafa9",
+            "repo": "SeisWiz",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeisWiz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 738970602,
+            "language": "Python",
+            "last_commit": "2024-01-30T15:57:04Z",
+            "owner": "amustafa9",
+            "repo": "SeisWiz",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spyro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318542339,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:38:23Z",
+            "owner": "NDF-Poli-USP",
+            "repo": "spyro",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spyro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318542339,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:38:23Z",
+            "owner": "NDF-Poli-USP",
+            "repo": "spyro",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376739073,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-18T01:08:45Z",
+            "owner": "subsurface4d",
+            "repo": "SWIT",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 376739073,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-18T01:08:45Z",
+            "owner": "subsurface4d",
+            "repo": "SWIT",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swprocess",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202217252,
+            "language": "Python",
+            "last_commit": "2025-02-07T20:21:52Z",
+            "owner": "jpvantassel",
+            "repo": "swprocess",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swprocess",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202217252,
+            "language": "Python",
+            "last_commit": "2025-02-07T20:21:52Z",
+            "owner": "jpvantassel",
+            "repo": "swprocess",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "synthoseis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629980570,
+            "language": "Python",
+            "last_commit": "2026-08-18T21:34:33Z",
+            "owner": "sede-open",
+            "repo": "synthoseis",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "synthoseis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629980570,
+            "language": "Python",
+            "last_commit": "2026-08-18T21:34:33Z",
+            "owner": "sede-open",
+            "repo": "synthoseis",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veros",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87419383,
+            "language": "Python",
+            "last_commit": "2026-08-21T05:20:54Z",
+            "owner": "team-ocean",
+            "repo": "veros",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veros",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87419383,
+            "language": "Python",
+            "last_commit": "2026-08-21T05:20:54Z",
+            "owner": "team-ocean",
+            "repo": "veros",
+            "stars": 399
+          }
+        }
+      ],
+      "title": "Software and Tools"
+    },
+    {
       "description": "Build and refine your geophysics knowledge with these top-tier learning materials:",
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "Teaching material for ErSE 210 Seismology course GitHub Repo.",
-              "description": null,
+              "title": "Seismology",
+              "description": "Teaching material for ErSE 210 Seismology course GitHub Repo.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -22,8 +1288,8 @@
             },
             {
               "node_type": "item",
-              "title": "Course material for the lecture (SS 2019) at the Institute of Geosciences (Department of Geophysics), Christian-Albrechts-University Kiel",
-              "description": null,
+              "title": "Theory-of-seismic-waves-II",
+              "description": "Course material for the lecture (SS 2019) at the Institute of Geosciences (Department of Geophysics), Christian-Albrechts-University Kiel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -42,10 +1308,59 @@
         }
       ],
       "title": "Educational Resources"
+    },
+    {
+      "description": "A few additional resources to enhance your geophysical toolkit:",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "obspy",
+              "description": "Python library for seismology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5731348,
+                "language": "Python",
+                "last_commit": "2026-08-10T21:22:44Z",
+                "owner": "obspy",
+                "repo": "obspy",
+                "stars": 1329
+              }
+            }
+          ],
+          "description": "Tools and libraries for geophysical programming and analysis:",
+          "node_type": "group",
+          "title": "Programming and Scripting Resources"
+        }
+      ],
+      "title": "Miscellaneous Resources"
+    },
+    {
+      "description": "This list is a community effort and grows with your contributions!Have a tool, dataset, blog, or resource to add? Here's how you can help:\nTogether, we can continue to make Awesome Geophysics the definitive resource for the global geophysical community.\nFor more detailed guidelines, please check the CONTRIBUTING.md file.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Submit a Suggestion:Open an issue or pull request on our GitHub repository",
+          "description": "to add or update resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 952159674,
+            "language": "Python",
+            "last_commit": "2026-08-02T03:32:39Z",
+            "owner": "aradfarahani",
+            "repo": "awesome-geophysics",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "How to Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:29:54.214Z",
+    "last_updated": "2026-08-24T14:38:59.361Z",
     "original_repository": "aradfarahani/awesome-geophysics",
     "original_repository_id": 952159674,
     "original_repository_sha": "172ef74fc0adb4336b8883bcbc772eb31cdf3350",
