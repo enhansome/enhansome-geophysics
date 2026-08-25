@@ -425,7 +425,7 @@
         },
         {
           "node_type": "item",
-          "title": "Source",
+          "title": "mdio-python",
           "description": "Open source chunked and compressed cloud storage for seismic data based on Zarr with fast seismic ingestion and export tools – Docs, Source.",
           "children": [],
           "repo_info": {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 5731348,
             "language": "Python",
-            "last_commit": "2026-08-10T21:22:44Z",
+            "last_commit": "2026-08-24T21:18:53Z",
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1329
@@ -492,7 +492,7 @@
             "archived": false,
             "id": 5731348,
             "language": "Python",
-            "last_commit": "2026-08-10T21:22:44Z",
+            "last_commit": "2026-08-24T21:18:53Z",
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1329
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 56300322,
             "language": "Python",
-            "last_commit": "2026-08-24T12:05:42Z",
+            "last_commit": "2026-08-24T14:50:04Z",
             "owner": "pastas",
             "repo": "pastas",
             "stars": 450
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 56300322,
             "language": "Python",
-            "last_commit": "2026-08-24T12:05:42Z",
+            "last_commit": "2026-08-24T14:50:04Z",
             "owner": "pastas",
             "repo": "pastas",
             "stars": 450
@@ -1122,7 +1122,7 @@
             "archived": false,
             "id": 318542339,
             "language": "Python",
-            "last_commit": "2026-08-24T14:38:23Z",
+            "last_commit": "2026-08-25T01:10:22Z",
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 59
@@ -1137,7 +1137,7 @@
             "archived": false,
             "id": 318542339,
             "language": "Python",
-            "last_commit": "2026-08-24T14:38:23Z",
+            "last_commit": "2026-08-25T01:10:22Z",
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 59
@@ -1242,7 +1242,7 @@
             "archived": false,
             "id": 87419383,
             "language": "Python",
-            "last_commit": "2026-08-21T05:20:54Z",
+            "last_commit": "2026-08-25T05:17:16Z",
             "owner": "team-ocean",
             "repo": "veros",
             "stars": 399
@@ -1257,7 +1257,7 @@
             "archived": false,
             "id": 87419383,
             "language": "Python",
-            "last_commit": "2026-08-21T05:20:54Z",
+            "last_commit": "2026-08-25T05:17:16Z",
             "owner": "team-ocean",
             "repo": "veros",
             "stars": 399
@@ -1323,7 +1323,7 @@
                 "archived": false,
                 "id": 5731348,
                 "language": "Python",
-                "last_commit": "2026-08-10T21:22:44Z",
+                "last_commit": "2026-08-24T21:18:53Z",
                 "owner": "obspy",
                 "repo": "obspy",
                 "stars": 1329
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:59.361Z",
+    "last_updated": "2026-08-25T06:33:17.998Z",
     "original_repository": "aradfarahani/awesome-geophysics",
     "original_repository_id": 952159674,
     "original_repository_sha": "172ef74fc0adb4336b8883bcbc772eb31cdf3350",
