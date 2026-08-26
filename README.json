@@ -75,7 +75,7 @@
             "last_commit": "2023-12-19T10:52:54Z",
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 312
+            "stars": 313
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2023-12-19T10:52:54Z",
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 312
+            "stars": 313
           }
         },
         {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 5731348,
             "language": "Python",
-            "last_commit": "2026-08-24T21:18:53Z",
+            "last_commit": "2026-08-25T21:06:22Z",
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1329
@@ -492,7 +492,7 @@
             "archived": false,
             "id": 5731348,
             "language": "Python",
-            "last_commit": "2026-08-24T21:18:53Z",
+            "last_commit": "2026-08-25T21:06:22Z",
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1329
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 56300322,
             "language": "Python",
-            "last_commit": "2026-08-24T14:50:04Z",
+            "last_commit": "2026-08-25T08:22:49Z",
             "owner": "pastas",
             "repo": "pastas",
             "stars": 450
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 56300322,
             "language": "Python",
-            "last_commit": "2026-08-24T14:50:04Z",
+            "last_commit": "2026-08-25T08:22:49Z",
             "owner": "pastas",
             "repo": "pastas",
             "stars": 450
@@ -957,7 +957,7 @@
             "archived": false,
             "id": 250227387,
             "language": "C++",
-            "last_commit": "2026-08-24T13:27:40Z",
+            "last_commit": "2026-08-25T07:24:08Z",
             "owner": "SeisComP",
             "repo": "seiscomp",
             "stars": 89
@@ -972,7 +972,7 @@
             "archived": false,
             "id": 250227387,
             "language": "C++",
-            "last_commit": "2026-08-24T13:27:40Z",
+            "last_commit": "2026-08-25T07:24:08Z",
             "owner": "SeisComP",
             "repo": "seiscomp",
             "stars": 89
@@ -1122,7 +1122,7 @@
             "archived": false,
             "id": 318542339,
             "language": "Python",
-            "last_commit": "2026-08-25T01:10:22Z",
+            "last_commit": "2026-08-26T04:10:37Z",
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 59
@@ -1137,7 +1137,7 @@
             "archived": false,
             "id": 318542339,
             "language": "Python",
-            "last_commit": "2026-08-25T01:10:22Z",
+            "last_commit": "2026-08-26T04:10:37Z",
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 59
@@ -1323,7 +1323,7 @@
                 "archived": false,
                 "id": 5731348,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:18:53Z",
+                "last_commit": "2026-08-25T21:06:22Z",
                 "owner": "obspy",
                 "repo": "obspy",
                 "stars": 1329
@@ -1352,7 +1352,7 @@
             "last_commit": "2026-08-02T03:32:39Z",
             "owner": "aradfarahani",
             "repo": "awesome-geophysics",
-            "stars": 129
+            "stars": 130
           }
         }
       ],
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:17.998Z",
+    "last_updated": "2026-08-26T06:23:14.551Z",
     "original_repository": "aradfarahani/awesome-geophysics",
     "original_repository_id": 952159674,
     "original_repository_sha": "172ef74fc0adb4336b8883bcbc772eb31cdf3350",
