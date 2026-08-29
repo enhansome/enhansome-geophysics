@@ -827,7 +827,7 @@
             "open_issues": 300,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "data-center",
               "earthquakes",
@@ -860,7 +860,7 @@
             "open_issues": 300,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "data-center",
               "earthquakes",
@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-29T01:58:41Z",
+            "last_commit": "2026-08-29T05:36:30Z",
             "open_issues": 91,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-29T01:58:41Z",
+            "last_commit": "2026-08-29T05:36:30Z",
             "open_issues": 91,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -2188,7 +2188,7 @@
                 "open_issues": 300,
                 "owner": "obspy",
                 "repo": "obspy",
-                "stars": 1331,
+                "stars": 1332,
                 "topics": [
                   "data-center",
                   "earthquakes",
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:25.068Z",
+    "last_updated": "2026-08-29T11:48:39.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
