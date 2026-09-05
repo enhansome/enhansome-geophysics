@@ -209,7 +209,7 @@
             "open_issues": 9,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 382,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -230,7 +230,7 @@
             "open_issues": 9,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 382,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -605,7 +605,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -626,7 +626,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -703,7 +703,7 @@
             "id": 97037021,
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
-            "last_commit": "2021-05-19T21:14:06Z",
+            "last_commit": "2026-09-04T19:07:57Z",
             "open_issues": 0,
             "owner": "groupeLIAMG",
             "repo": "hypopy",
@@ -728,7 +728,7 @@
             "id": 97037021,
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
-            "last_commit": "2021-05-19T21:14:06Z",
+            "last_commit": "2026-09-04T19:07:57Z",
             "open_issues": 0,
             "owner": "groupeLIAMG",
             "repo": "hypopy",
@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-04T01:28:12Z",
+            "last_commit": "2026-09-05T06:21:11Z",
             "open_issues": 92,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-04T01:28:12Z",
+            "last_commit": "2026-09-05T06:21:11Z",
             "open_issues": 92,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T10:00:20.091Z",
+    "last_updated": "2026-09-05T09:30:04.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
