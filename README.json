@@ -113,7 +113,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -140,7 +140,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -209,7 +209,7 @@
             "open_issues": 9,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 384,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -230,7 +230,7 @@
             "open_issues": 9,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 384,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -413,7 +413,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1339,
+            "stars": 1340,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -449,7 +449,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1339,
+            "stars": 1340,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -605,7 +605,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 282,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -626,7 +626,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 282,
+            "stars": 283,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -824,7 +824,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T14:53:12Z",
-            "open_issues": 308,
+            "open_issues": 307,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1332,
@@ -857,7 +857,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T14:53:12Z",
-            "open_issues": 308,
+            "open_issues": 307,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1332,
@@ -984,10 +984,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-03T06:14:24Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "pastas",
             "repo": "pastas",
-            "stars": 451,
+            "stars": 452,
             "topics": [
               "analysis",
               "groundwater",
@@ -1012,10 +1012,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-03T06:14:24Z",
-            "open_issues": 37,
+            "open_issues": 38,
             "owner": "pastas",
             "repo": "pastas",
-            "stars": 451,
+            "stars": 452,
             "topics": [
               "analysis",
               "groundwater",
@@ -1848,8 +1848,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-06T03:09:10Z",
-            "open_issues": 92,
+            "last_commit": "2026-09-07T22:12:31Z",
+            "open_issues": 91,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 59,
@@ -1873,8 +1873,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-06T03:09:10Z",
-            "open_issues": 92,
+            "last_commit": "2026-09-07T22:12:31Z",
+            "open_issues": 91,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 59,
@@ -2054,8 +2054,8 @@
             "id": 87419383,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T07:34:09Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-07T10:58:16Z",
+            "open_issues": 28,
             "owner": "team-ocean",
             "repo": "veros",
             "stars": 400,
@@ -2085,8 +2085,8 @@
             "id": 87419383,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T07:34:09Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-07T10:58:16Z",
+            "open_issues": 28,
             "owner": "team-ocean",
             "repo": "veros",
             "stars": 400,
@@ -2185,7 +2185,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T14:53:12Z",
-                "open_issues": 308,
+                "open_issues": 307,
                 "owner": "obspy",
                 "repo": "obspy",
                 "stars": 1332,
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:47:25.856Z",
+    "last_updated": "2026-09-08T10:08:17.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
