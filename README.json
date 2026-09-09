@@ -251,7 +251,7 @@
             "open_issues": 2,
             "owner": "keurfonluu",
             "repo": "disba",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "dispersion",
               "geosciences",
@@ -279,7 +279,7 @@
             "open_issues": 2,
             "owner": "keurfonluu",
             "repo": "disba",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "dispersion",
               "geosciences",
@@ -605,7 +605,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 283,
+            "stars": 284,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -626,7 +626,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 283,
+            "stars": 284,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -703,7 +703,7 @@
             "id": 97037021,
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T19:07:57Z",
+            "last_commit": "2026-09-08T18:38:27Z",
             "open_issues": 0,
             "owner": "groupeLIAMG",
             "repo": "hypopy",
@@ -728,7 +728,7 @@
             "id": 97037021,
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T19:07:57Z",
+            "last_commit": "2026-09-08T18:38:27Z",
             "open_issues": 0,
             "owner": "groupeLIAMG",
             "repo": "hypopy",
@@ -889,7 +889,7 @@
             "id": 24052587,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-02-12T01:43:22Z",
+            "last_commit": "2026-09-09T07:52:00Z",
             "open_issues": 4,
             "owner": "waynegm",
             "repo": "OpendTect-Plugins",
@@ -915,7 +915,7 @@
             "id": 24052587,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-02-12T01:43:22Z",
+            "last_commit": "2026-09-09T07:52:00Z",
             "open_issues": 4,
             "owner": "waynegm",
             "repo": "OpendTect-Plugins",
@@ -983,8 +983,8 @@
             "id": 56300322,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T06:14:24Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-09T10:07:40Z",
+            "open_issues": 42,
             "owner": "pastas",
             "repo": "pastas",
             "stars": 452,
@@ -1011,8 +1011,8 @@
             "id": 56300322,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T06:14:24Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-09T10:07:40Z",
+            "open_issues": 42,
             "owner": "pastas",
             "repo": "pastas",
             "stars": 452,
@@ -1043,7 +1043,7 @@
             "open_issues": 4,
             "owner": "aaspip",
             "repo": "pyekfmm",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1064,7 +1064,7 @@
             "open_issues": 4,
             "owner": "aaspip",
             "repo": "pyekfmm",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1621,7 +1621,7 @@
             "open_issues": 0,
             "owner": "SeisComP",
             "repo": "seiscomp",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1642,7 +1642,7 @@
             "open_issues": 0,
             "owner": "SeisComP",
             "repo": "seiscomp",
-            "stars": 89,
+            "stars": 90,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1848,8 +1848,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-07T22:12:31Z",
-            "open_issues": 91,
+            "last_commit": "2026-09-09T03:22:43Z",
+            "open_issues": 93,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 59,
@@ -1873,8 +1873,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-07T22:12:31Z",
-            "open_issues": 91,
+            "last_commit": "2026-09-09T03:22:43Z",
+            "open_issues": 93,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 59,
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T10:08:17.664Z",
+    "last_updated": "2026-09-09T10:10:09.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
