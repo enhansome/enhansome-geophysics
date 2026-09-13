@@ -605,7 +605,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 285,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -626,7 +626,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 285,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -889,7 +889,7 @@
             "id": 24052587,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T12:55:01Z",
+            "last_commit": "2026-09-13T06:46:13Z",
             "open_issues": 4,
             "owner": "waynegm",
             "repo": "OpendTect-Plugins",
@@ -915,7 +915,7 @@
             "id": 24052587,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T12:55:01Z",
+            "last_commit": "2026-09-13T06:46:13Z",
             "open_issues": 4,
             "owner": "waynegm",
             "repo": "OpendTect-Plugins",
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:39:15.344Z",
+    "last_updated": "2026-09-13T10:40:19.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
