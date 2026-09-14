@@ -987,7 +987,7 @@
             "open_issues": 39,
             "owner": "pastas",
             "repo": "pastas",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "analysis",
               "groundwater",
@@ -1015,7 +1015,7 @@
             "open_issues": 39,
             "owner": "pastas",
             "repo": "pastas",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "analysis",
               "groundwater",
@@ -2232,7 +2232,7 @@
             "open_issues": 1,
             "owner": "aradfarahani",
             "repo": "awesome-geophysics",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:40:19.008Z",
+    "last_updated": "2026-09-14T11:00:43.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
@@ -2271,7 +2271,7 @@
       "open_issues": 1,
       "owner": "aradfarahani",
       "repo": "awesome-geophysics",
-      "stars": 131,
+      "stars": 132,
       "topics": [
         "awesome",
         "awesome-list",
