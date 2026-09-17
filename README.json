@@ -113,7 +113,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 314,
+            "stars": 315,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -140,7 +140,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 314,
+            "stars": 315,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -209,7 +209,7 @@
             "open_issues": 10,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 385,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -230,7 +230,7 @@
             "open_issues": 10,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 385,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -481,7 +481,7 @@
             "id": 782733331,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:25:41Z",
+            "last_commit": "2026-09-17T05:16:26Z",
             "open_issues": 0,
             "owner": "aradfarahani",
             "repo": "Geoelectricspy",
@@ -508,7 +508,7 @@
             "id": 782733331,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:25:41Z",
+            "last_commit": "2026-09-17T05:16:26Z",
             "open_issues": 0,
             "owner": "aradfarahani",
             "repo": "Geoelectricspy",
@@ -605,7 +605,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 287,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -626,7 +626,7 @@
             "open_issues": 30,
             "owner": "NSGeophysics",
             "repo": "GPRPy",
-            "stars": 287,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -753,8 +753,8 @@
             "id": 526687085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T20:33:25Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-16T16:31:47Z",
+            "open_issues": 45,
             "owner": "TGSAI",
             "repo": "mdio-python",
             "stars": 42,
@@ -983,8 +983,8 @@
             "id": 56300322,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T10:17:28Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-17T10:28:00Z",
+            "open_issues": 44,
             "owner": "pastas",
             "repo": "pastas",
             "stars": 454,
@@ -1011,8 +1011,8 @@
             "id": 56300322,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T10:17:28Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-17T10:28:00Z",
+            "open_issues": 44,
             "owner": "pastas",
             "repo": "pastas",
             "stars": 454,
@@ -1768,7 +1768,7 @@
             "open_issues": 114,
             "owner": "JohnWStockwellJr",
             "repo": "SeisUnix",
-            "stars": 317,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1789,7 +1789,7 @@
             "open_issues": 114,
             "owner": "JohnWStockwellJr",
             "repo": "SeisUnix",
-            "stars": 317,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-16T00:03:24Z",
+            "last_commit": "2026-09-17T02:30:42Z",
             "open_issues": 98,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-16T00:03:24Z",
+            "last_commit": "2026-09-17T02:30:42Z",
             "open_issues": 98,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1902,7 +1902,7 @@
             "open_issues": 5,
             "owner": "subsurface4d",
             "repo": "SWIT",
-            "stars": 282,
+            "stars": 284,
             "topics": [
               "full-waveform-inversion",
               "gui-application",
@@ -1927,7 +1927,7 @@
             "open_issues": 5,
             "owner": "subsurface4d",
             "repo": "SWIT",
-            "stars": 282,
+            "stars": 284,
             "topics": [
               "full-waveform-inversion",
               "gui-application",
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T10:20:25.372Z",
+    "last_updated": "2026-09-17T10:30:03.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
