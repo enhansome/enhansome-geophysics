@@ -413,7 +413,7 @@
             "open_issues": 9,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1343,
+            "stars": 1342,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -449,7 +449,7 @@
             "open_issues": 9,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1343,
+            "stars": 1342,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-19T16:50:49Z",
+            "last_commit": "2026-09-20T23:54:01Z",
             "open_issues": 94,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-19T16:50:49Z",
+            "last_commit": "2026-09-20T23:54:01Z",
             "open_issues": 94,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -2154,7 +2154,7 @@
                 "open_issues": 1,
                 "owner": "daniel-koehn",
                 "repo": "Theory-of-seismic-waves-II",
-                "stars": 137,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:44:30.820Z"
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T10:08:53.463Z",
+    "last_updated": "2026-09-21T11:10:21.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
