@@ -371,7 +371,7 @@
             "open_issues": 0,
             "owner": "geo-stack",
             "repo": "first_break_picking",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -392,7 +392,7 @@
             "open_issues": 0,
             "owner": "geo-stack",
             "repo": "first_break_picking",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -983,8 +983,8 @@
             "id": 56300322,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T10:28:00Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-24T06:14:01Z",
+            "open_issues": 45,
             "owner": "pastas",
             "repo": "pastas",
             "stars": 454,
@@ -1011,8 +1011,8 @@
             "id": 56300322,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T10:28:00Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-24T06:14:01Z",
+            "open_issues": 45,
             "owner": "pastas",
             "repo": "pastas",
             "stars": 454,
@@ -1848,8 +1848,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-23T04:29:29Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-24T05:45:58Z",
+            "open_issues": 97,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 60,
@@ -1873,8 +1873,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-23T04:29:29Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-24T05:45:58Z",
+            "open_issues": 97,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 60,
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:19:28.799Z",
+    "last_updated": "2026-09-24T10:33:34.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
