@@ -113,7 +113,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -140,7 +140,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -163,8 +163,8 @@
             "id": 392800928,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-22T18:50:13Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-24T20:08:15Z",
+            "open_issues": 8,
             "owner": "brendanjmeade",
             "repo": "celeri",
             "stars": 38,
@@ -184,8 +184,8 @@
             "id": 392800928,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-22T18:50:13Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-24T20:08:15Z",
+            "open_issues": 8,
             "owner": "brendanjmeade",
             "repo": "celeri",
             "stars": 38,
@@ -251,7 +251,7 @@
             "open_issues": 2,
             "owner": "keurfonluu",
             "repo": "disba",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "dispersion",
               "geosciences",
@@ -279,7 +279,7 @@
             "open_issues": 2,
             "owner": "keurfonluu",
             "repo": "disba",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "dispersion",
               "geosciences",
@@ -371,7 +371,7 @@
             "open_issues": 0,
             "owner": "geo-stack",
             "repo": "first_break_picking",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -392,7 +392,7 @@
             "open_issues": 0,
             "owner": "geo-stack",
             "repo": "first_break_picking",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -413,7 +413,7 @@
             "open_issues": 9,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1342,
+            "stars": 1343,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -449,7 +449,7 @@
             "open_issues": 9,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1342,
+            "stars": 1343,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -827,7 +827,7 @@
             "open_issues": 312,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1335,
+            "stars": 1336,
             "topics": [
               "data-center",
               "earthquakes",
@@ -860,7 +860,7 @@
             "open_issues": 312,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1335,
+            "stars": 1336,
             "topics": [
               "data-center",
               "earthquakes",
@@ -1043,7 +1043,7 @@
             "open_issues": 4,
             "owner": "aaspip",
             "repo": "pyekfmm",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1064,7 +1064,7 @@
             "open_issues": 4,
             "owner": "aaspip",
             "repo": "pyekfmm",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1169,7 +1169,7 @@
             "open_issues": 0,
             "owner": "equinor",
             "repo": "pyzgy",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1190,7 +1190,7 @@
             "open_issues": 0,
             "owner": "equinor",
             "repo": "pyzgy",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1211,7 +1211,7 @@
             "open_issues": 2,
             "owner": "btobers",
             "repo": "RAGU",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1232,7 +1232,7 @@
             "open_issues": 2,
             "owner": "btobers",
             "repo": "RAGU",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1357,7 +1357,7 @@
             "open_issues": 6,
             "owner": "ahotovec",
             "repo": "REDPy",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "python",
               "repeating-earthquakes",
@@ -1383,7 +1383,7 @@
             "open_issues": 6,
             "owner": "ahotovec",
             "repo": "REDPy",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "python",
               "repeating-earthquakes",
@@ -1451,7 +1451,7 @@
             "open_issues": 1,
             "owner": "emanuelhuber",
             "repo": "RGPR",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "dsp",
               "geophysics",
@@ -1486,7 +1486,7 @@
             "open_issues": 1,
             "owner": "emanuelhuber",
             "repo": "RGPR",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "dsp",
               "geophysics",
@@ -1563,7 +1563,7 @@
             "open_issues": 43,
             "owner": "equinor",
             "repo": "segyio",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "c",
               "fast",
@@ -1592,7 +1592,7 @@
             "open_issues": 43,
             "owner": "equinor",
             "repo": "segyio",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "c",
               "fast",
@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-24T05:45:58Z",
+            "last_commit": "2026-09-25T02:09:31Z",
             "open_issues": 97,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-24T05:45:58Z",
+            "last_commit": "2026-09-25T02:09:31Z",
             "open_issues": 97,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -2188,7 +2188,7 @@
                 "open_issues": 312,
                 "owner": "obspy",
                 "repo": "obspy",
-                "stars": 1335,
+                "stars": 1336,
                 "topics": [
                   "data-center",
                   "earthquakes",
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:33:34.213Z",
+    "last_updated": "2026-09-25T10:37:04.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
