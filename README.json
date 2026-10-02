@@ -163,7 +163,7 @@
             "id": 392800928,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-29T01:41:06Z",
+            "last_commit": "2026-10-01T18:09:10Z",
             "open_issues": 8,
             "owner": "brendanjmeade",
             "repo": "celeri",
@@ -184,7 +184,7 @@
             "id": 392800928,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-29T01:41:06Z",
+            "last_commit": "2026-10-01T18:09:10Z",
             "open_issues": 8,
             "owner": "brendanjmeade",
             "repo": "celeri",
@@ -413,7 +413,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1346,
+            "stars": 1347,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -449,7 +449,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1346,
+            "stars": 1347,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -753,7 +753,7 @@
             "id": 526687085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T02:14:54Z",
+            "last_commit": "2026-10-01T17:59:42Z",
             "open_issues": 26,
             "owner": "TGSAI",
             "repo": "mdio-python",
@@ -827,7 +827,7 @@
             "open_issues": 318,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1336,
+            "stars": 1337,
             "topics": [
               "data-center",
               "earthquakes",
@@ -860,7 +860,7 @@
             "open_issues": 318,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1336,
+            "stars": 1337,
             "topics": [
               "data-center",
               "earthquakes",
@@ -1123,7 +1123,7 @@
             "id": 391019016,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2024-07-10T07:31:01Z",
+            "last_commit": "2026-10-01T13:46:58Z",
             "open_issues": 2,
             "owner": "equinor",
             "repo": "pyvds",
@@ -1144,7 +1144,7 @@
             "id": 391019016,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2024-07-10T07:31:01Z",
+            "last_commit": "2026-10-01T13:46:58Z",
             "open_issues": 2,
             "owner": "equinor",
             "repo": "pyvds",
@@ -2188,7 +2188,7 @@
                 "open_issues": 318,
                 "owner": "obspy",
                 "repo": "obspy",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "data-center",
                   "earthquakes",
@@ -2259,7 +2259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:52:35.840Z",
+    "last_updated": "2026-10-02T11:24:58.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
