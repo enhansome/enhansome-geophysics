@@ -827,7 +827,7 @@
             "open_issues": 318,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1337,
+            "stars": 1338,
             "topics": [
               "data-center",
               "earthquakes",
@@ -860,7 +860,7 @@
             "open_issues": 318,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1337,
+            "stars": 1338,
             "topics": [
               "data-center",
               "earthquakes",
@@ -2004,8 +2004,8 @@
             "id": 629980570,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-19T01:56:30Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-03T09:59:06Z",
+            "open_issues": 9,
             "owner": "sede-open",
             "repo": "synthoseis",
             "stars": 132,
@@ -2029,8 +2029,8 @@
             "id": 629980570,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-19T01:56:30Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-03T09:59:06Z",
+            "open_issues": 9,
             "owner": "sede-open",
             "repo": "synthoseis",
             "stars": 132,
@@ -2188,7 +2188,7 @@
                 "open_issues": 318,
                 "owner": "obspy",
                 "repo": "obspy",
-                "stars": 1337,
+                "stars": 1338,
                 "topics": [
                   "data-center",
                   "earthquakes",
@@ -2215,7 +2215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:17.301Z",
+    "last_updated": "2026-10-03T10:41:55.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
