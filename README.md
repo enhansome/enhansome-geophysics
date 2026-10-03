@@ -1,12 +1,12 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,481 | 🐛 106 | 📅 2026-09-02
-[<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>](https://github.com/aradfarahani/awesome-geophysics) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02
-[<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aradfarahani/awesome-geophysics?color=2b9348">](https://github.com/aradfarahani/awesome-geophysics/graphs/contributors) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02
-[![License](https://img.shields.io/github/license/aradfarahani/awesome-geophysics.svg)](https://github.com/aradfarahani/awesome-geophysics/blob/main/LICENSE) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02
-[![Commits](https://img.shields.io/github/last-commit/aradfarahani/awesome-geophysics.svg?label=last%20contribution)](https://github.com/aradfarahani/awesome-geophysics/commits/main) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02 [![GitHub stars](https://img.shields.io/github/stars/aradfarahani/awesome-geophysics?style=social)](https://github.com/aradfarahani/awesome-geophysics/stargazers) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02 [![GitHub Forks](https://img.shields.io/github/forks/aradfarahani/awesome-geophysics?style=social)](https://github.com/aradfarahani/awesome-geophysics/forks) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
+[<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>](https://github.com/aradfarahani/awesome-geophysics)
+[<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/aradfarahani/awesome-geophysics?color=2b9348">](https://github.com/aradfarahani/awesome-geophysics/graphs/contributors)
+[![License](https://img.shields.io/github/license/aradfarahani/awesome-geophysics.svg)](https://github.com/aradfarahani/awesome-geophysics/blob/main/LICENSE)
+[![Commits](https://img.shields.io/github/last-commit/aradfarahani/awesome-geophysics.svg?label=last%20contribution)](https://github.com/aradfarahani/awesome-geophysics/commits/main) [![GitHub stars](https://img.shields.io/github/stars/aradfarahani/awesome-geophysics?style=social)](https://github.com/aradfarahani/awesome-geophysics/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/aradfarahani/awesome-geophysics?style=social)](https://github.com/aradfarahani/awesome-geophysics/forks)
 
 # Awesome Geophysics with stars
 
-# [<img src="https://cdn.rawgit.com/aradfarahani/awesome-geophysics/main/cover.png">](https://github.com/aradfarahani/awesome-geophysics) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02
+# [<img src="https://cdn.rawgit.com/aradfarahani/awesome-geophysics/main/cover.png">](https://github.com/aradfarahani/awesome-geophysics)
 
 <p align="justify">
 Welcome to <strong>Awesome Geophysics</strong> – A community-curated collection of geophysical resources including software, datasets, educational materials, and more. `Test` Whether you're a student just beginning your journey, a researcher pushing the boundaries of the field, or a professional applying cutting-edge methods, this guide is your one-stop destination for software, datasets, educational materials, and much more. Let's explore the Earth's hidden depths and stay connected with the vibrant global geophysics community!
@@ -126,7 +126,7 @@ Enhance your geophysical workflows with these essential software solutions:
 | **[`SeismicZFP`](https://github.com/equinor/seismic-zfp) ⭐ 73 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-30**                       | Convert SEG-Y/ZGY files to compressed [SGZ files](https://github.com/equinor/seismic-zfp/blob/master/docs/file-specification.md) ⭐ 73 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-30 & retrieve arbitrary sub-volumes from these, fast.                                                                                                   | [![GitHub stars](https://img.shields.io/github/stars/equinor/seismic-zfp?style=social)](https://github.com/equinor/seismic-zfp/stargazers) ⭐ 73 \| 🐛 3 \| 🌐 Python \| 📅 2026-09-30                           |
 | **[`SeisUnix`](https://github.com/JohnWStockwellJr/SeisUnix) ⭐ 320 \| 🐛 114 \| 🌐 AGS Script \| 📅 2024-09-07**            | A classic suite for seismic reflection data processing, widely used in both academia and industry.                                                                                                                                                                                                                               | [![GitHub stars](https://img.shields.io/github/stars/JohnWStockwellJr/SeisUnix?style=social)](https://github.com/JohnWStockwellJr/SeisUnix/stargazers) ⭐ 320 \| 🐛 114 \| 🌐 AGS Script \| 📅 2024-09-07        |
 | **[`SeisWiz`](https://github.com/amustafa9/SeisWiz) ⭐ 24 \| 🐛 0 \| 🌐 Python \| 📅 2024-01-30**                            | The ultimate lightweight Matplotlib-based seismic volume viewer with multi-view support and horizon visualization capabilities.                                                                                                                                                                                                  | [![GitHub stars](https://img.shields.io/github/stars/amustafa9/SeisWiz?style=social)](https://github.com/amustafa9/SeisWiz/stargazers) ⭐ 24 \| 🐛 0 \| 🌐 Python \| 📅 2024-01-30                               |
-| **[`spyro`](https://github.com/NDF-Poli-USP/spyro) ⭐ 60 \| 🐛 96 \| 🌐 Python \| 📅 2026-09-30**                            | Seismic parallel inversion and reconstruction optimization framework                                                                                                                                                                                                                                                             | [![GitHub stars](https://img.shields.io/github/stars/NDF-Poli-USP/spyro?style=social)](https://github.com/NDF-Poli-USP/spyro/stargazers) ⭐ 60 \| 🐛 96 \| 🌐 Python \| 📅 2026-09-30                            |
+| **[`spyro`](https://github.com/NDF-Poli-USP/spyro) ⭐ 60 \| 🐛 95 \| 🌐 Python \| 📅 2026-10-02**                            | Seismic parallel inversion and reconstruction optimization framework                                                                                                                                                                                                                                                             | [![GitHub stars](https://img.shields.io/github/stars/NDF-Poli-USP/spyro?style=social)](https://github.com/NDF-Poli-USP/spyro/stargazers) ⭐ 60 \| 🐛 95 \| 🌐 Python \| 📅 2026-10-02                            |
 | **[`Surfer`](https://www.goldensoftware.com/products/surfer/)**                                                             | A contouring and 3D mapping software, great for visualizing subsurface geophysical data.                                                                                                                                                                                                                                         |                                                                                                                                                                                                                 |
 | **[`SWIT`](https://github.com/seisfwi/SWIT) ⭐ 284 \| 🐛 5 \| 🌐 Jupyter Notebook \| 📅 2024-01-18**                         | Seismic Waveform Inversion Toolbox (SWIT-1.0) is a 2-D acoustic Full-waveform Inversion (FWI) package implemented in Fortran and Python.                                                                                                                                                                                         | [![GitHub stars](https://img.shields.io/github/stars/seisfwi/SWIT?style=social)](https://github.com/seisfwi/SWIT/stargazers) ⭐ 284 \| 🐛 5 \| 🌐 Jupyter Notebook \| 📅 2024-01-18                              |
 | **[`swprocess`](https://github.com/jpvantassel/swprocess) ⭐ 122 \| 🐛 4 \| 🌐 Python \| 📅 2025-02-07**                     | A Python package for surface wave processing.                                                                                                                                                                                                                                                                                    | [![GitHub stars](https://img.shields.io/github/stars/jpvantassel/swprocess?style=social)](https://github.com/jpvantassel/swprocess/stargazers) ⭐ 122 \| 🐛 4 \| 🌐 Python \| 📅 2025-02-07                      |
@@ -688,7 +688,7 @@ Tools for developing geophysical software and workflows:
 
 Thanks to our many contributors!
 
-[![Contributors](https://contrib.rocks/image?repo=aradfarahani/awesome-geophysics)](https://github.com/aradfarahani/awesome-geophysics/graphs/contributors) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02
+[![Contributors](https://contrib.rocks/image?repo=aradfarahani/awesome-geophysics)](https://github.com/aradfarahani/awesome-geophysics/graphs/contributors)
 
 | ▲ [Top](#awesome-geophysics) |
 | ---------------------------- |
@@ -701,14 +701,14 @@ This list is a community effort and grows with your contributions!\
 Have a tool, dataset, blog, or resource to add? Here's how you can help:
 
 1. **Submit a Suggestion:**\
-   Open an issue or pull request on our [GitHub repository](https://github.com/aradfarahani/awesome-geophysics) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02 to add or update resources.
+   Open an issue or pull request on our [GitHub repository](https://github.com/aradfarahani/awesome-geophysics) to add or update resources.
 
 2. **Share Your Expertise:**\
    Contribute by writing tutorials, guides, or blog posts that explain complex geophysical concepts in an accessible way.
 
 Together, we can continue to make Awesome Geophysics the definitive resource for the global geophysical community.
 
-> **For more detailed guidelines, please check the [CONTRIBUTING.md](https://github.com/aradfarahani/awesome-geophysics/blob/main/CONTRIBUTING.md) ⭐ 133 | 🐛 1 | 🌐 Python | 📅 2026-08-02 file.**
+> **For more detailed guidelines, please check the [CONTRIBUTING.md](https://github.com/aradfarahani/awesome-geophysics/blob/main/CONTRIBUTING.md) file.**
 
 | ▲ [Top](#awesome-geophysics) |
 | ---------------------------- |
@@ -731,4 +731,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
