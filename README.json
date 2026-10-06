@@ -113,7 +113,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -140,7 +140,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 316,
+            "stars": 317,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -413,7 +413,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1347,
+            "stars": 1350,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -449,7 +449,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1347,
+            "stars": 1350,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -647,7 +647,7 @@
             "open_issues": 3,
             "owner": "jpvantassel",
             "repo": "hvsrpy",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "earthquake",
               "ehvsr",
@@ -677,7 +677,7 @@
             "open_issues": 3,
             "owner": "jpvantassel",
             "repo": "hvsrpy",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "earthquake",
               "ehvsr",
@@ -827,7 +827,7 @@
             "open_issues": 319,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1338,
+            "stars": 1339,
             "topics": [
               "data-center",
               "earthquakes",
@@ -860,7 +860,7 @@
             "open_issues": 319,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1338,
+            "stars": 1339,
             "topics": [
               "data-center",
               "earthquakes",
@@ -1451,7 +1451,7 @@
             "open_issues": 1,
             "owner": "emanuelhuber",
             "repo": "RGPR",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "dsp",
               "geophysics",
@@ -1486,7 +1486,7 @@
             "open_issues": 1,
             "owner": "emanuelhuber",
             "repo": "RGPR",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "dsp",
               "geophysics",
@@ -1617,7 +1617,7 @@
             "id": 250227387,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T07:08:49Z",
+            "last_commit": "2026-10-06T06:23:50Z",
             "open_issues": 1,
             "owner": "SeisComP",
             "repo": "seiscomp",
@@ -1638,7 +1638,7 @@
             "id": 250227387,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T07:08:49Z",
+            "last_commit": "2026-10-06T06:23:50Z",
             "open_issues": 1,
             "owner": "SeisComP",
             "repo": "seiscomp",
@@ -1848,8 +1848,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-05T12:25:39Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-05T19:44:13Z",
+            "open_issues": 95,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 60,
@@ -1873,8 +1873,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-05T12:25:39Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-05T19:44:13Z",
+            "open_issues": 95,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 60,
@@ -2188,7 +2188,7 @@
                 "open_issues": 319,
                 "owner": "obspy",
                 "repo": "obspy",
-                "stars": 1338,
+                "stars": 1339,
                 "topics": [
                   "data-center",
                   "earthquakes",
@@ -2215,7 +2215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:45:10.173Z",
+    "last_updated": "2026-10-06T10:26:41.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
