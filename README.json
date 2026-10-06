@@ -113,7 +113,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -140,7 +140,7 @@
             "open_issues": 34,
             "owner": "agilescientific",
             "repo": "bruges",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "geophysics",
               "petrophysics",
@@ -307,7 +307,7 @@
             "open_issues": 37,
             "owner": "eqcorrscan",
             "repo": "EQcorrscan",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "cross-correlation",
               "detection",
@@ -339,7 +339,7 @@
             "open_issues": 37,
             "owner": "eqcorrscan",
             "repo": "EQcorrscan",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "cross-correlation",
               "detection",
@@ -1617,7 +1617,7 @@
             "id": 250227387,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T06:23:50Z",
+            "last_commit": "2026-10-06T11:21:03Z",
             "open_issues": 1,
             "owner": "SeisComP",
             "repo": "seiscomp",
@@ -1638,7 +1638,7 @@
             "id": 250227387,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T06:23:50Z",
+            "last_commit": "2026-10-06T11:21:03Z",
             "open_issues": 1,
             "owner": "SeisComP",
             "repo": "seiscomp",
@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-05T19:44:13Z",
+            "last_commit": "2026-10-06T12:13:29Z",
             "open_issues": 95,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-05T19:44:13Z",
+            "last_commit": "2026-10-06T12:13:29Z",
             "open_issues": 95,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -2215,7 +2215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:26:41.978Z",
+    "last_updated": "2026-10-06T12:15:55.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
