@@ -824,7 +824,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T18:47:07Z",
-            "open_issues": 320,
+            "open_issues": 321,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1339,
@@ -857,7 +857,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T18:47:07Z",
-            "open_issues": 320,
+            "open_issues": 321,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1339,
@@ -1169,7 +1169,7 @@
             "open_issues": 0,
             "owner": "equinor",
             "repo": "pyzgy",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1190,7 +1190,7 @@
             "open_issues": 0,
             "owner": "equinor",
             "repo": "pyzgy",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-09T22:41:27Z",
+            "last_commit": "2026-10-11T00:51:43Z",
             "open_issues": 96,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-09T22:41:27Z",
+            "last_commit": "2026-10-11T00:51:43Z",
             "open_issues": 96,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -2185,7 +2185,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T18:47:07Z",
-                "open_issues": 320,
+                "open_issues": 321,
                 "owner": "obspy",
                 "repo": "obspy",
                 "stars": 1339,
@@ -2215,7 +2215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:25:52.257Z",
+    "last_updated": "2026-10-11T11:39:13.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
