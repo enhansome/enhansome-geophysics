@@ -413,7 +413,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1355,
+            "stars": 1356,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -449,7 +449,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1355,
+            "stars": 1356,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -824,7 +824,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T05:14:33Z",
-            "open_issues": 322,
+            "open_issues": 323,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1340,
@@ -857,7 +857,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T05:14:33Z",
-            "open_issues": 322,
+            "open_issues": 323,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1340,
@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-16T15:58:35Z",
+            "last_commit": "2026-10-17T21:40:17Z",
             "open_issues": 99,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-16T15:58:35Z",
+            "last_commit": "2026-10-17T21:40:17Z",
             "open_issues": 99,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -2058,7 +2058,7 @@
             "open_issues": 35,
             "owner": "team-ocean",
             "repo": "veros",
-            "stars": 400,
+            "stars": 401,
             "topics": [
               "climate",
               "distributed",
@@ -2089,7 +2089,7 @@
             "open_issues": 35,
             "owner": "team-ocean",
             "repo": "veros",
-            "stars": 400,
+            "stars": 401,
             "topics": [
               "climate",
               "distributed",
@@ -2185,7 +2185,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-14T05:14:33Z",
-                "open_issues": 322,
+                "open_issues": 323,
                 "owner": "obspy",
                 "repo": "obspy",
                 "stars": 1340,
@@ -2215,7 +2215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:45:22.838Z",
+    "last_updated": "2026-10-18T09:58:19.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
@@ -2227,7 +2227,7 @@
       "open_issues": 1,
       "owner": "aradfarahani",
       "repo": "awesome-geophysics",
-      "stars": 135,
+      "stars": 136,
       "topics": [
         "awesome",
         "awesome-list",
