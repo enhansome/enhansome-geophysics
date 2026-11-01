@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-31T06:53:44Z",
+            "last_commit": "2026-11-01T05:54:55Z",
             "open_issues": 116,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-31T06:53:44Z",
+            "last_commit": "2026-11-01T05:54:55Z",
             "open_issues": 116,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -2215,7 +2215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:16:28.096Z",
+    "last_updated": "2026-11-01T12:05:51.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
