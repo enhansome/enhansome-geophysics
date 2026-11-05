@@ -413,7 +413,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1368,
+            "stars": 1371,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -449,7 +449,7 @@
             "open_issues": 10,
             "owner": "gempy-project",
             "repo": "gempy",
-            "stars": 1368,
+            "stars": 1371,
             "topics": [
               "bayesian",
               "complex-geological-models",
@@ -827,7 +827,7 @@
             "open_issues": 328,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1345,
+            "stars": 1346,
             "topics": [
               "data-center",
               "earthquakes",
@@ -860,7 +860,7 @@
             "open_issues": 328,
             "owner": "obspy",
             "repo": "obspy",
-            "stars": 1345,
+            "stars": 1346,
             "topics": [
               "data-center",
               "earthquakes",
@@ -983,7 +983,7 @@
             "id": 56300322,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T13:34:01Z",
+            "last_commit": "2026-11-05T10:14:06Z",
             "open_issues": 39,
             "owner": "pastas",
             "repo": "pastas",
@@ -1011,7 +1011,7 @@
             "id": 56300322,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T13:34:01Z",
+            "last_commit": "2026-11-05T10:14:06Z",
             "open_issues": 39,
             "owner": "pastas",
             "repo": "pastas",
@@ -1848,8 +1848,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-03T19:12:36Z",
-            "open_issues": 119,
+            "last_commit": "2026-11-05T13:24:00Z",
+            "open_issues": 116,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 61,
@@ -1873,8 +1873,8 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-03T19:12:36Z",
-            "open_issues": 119,
+            "last_commit": "2026-11-05T13:24:00Z",
+            "open_issues": 116,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
             "stars": 61,
@@ -2188,7 +2188,7 @@
                 "open_issues": 328,
                 "owner": "obspy",
                 "repo": "obspy",
-                "stars": 1345,
+                "stars": 1346,
                 "topics": [
                   "data-center",
                   "earthquakes",
@@ -2215,7 +2215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:19:14.199Z",
+    "last_updated": "2026-11-05T13:32:21.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
