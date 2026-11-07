@@ -209,7 +209,7 @@
             "open_issues": 11,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 391,
+            "stars": 390,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -230,7 +230,7 @@
             "open_issues": 11,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 391,
+            "stars": 390,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -251,7 +251,7 @@
             "open_issues": 4,
             "owner": "keurfonluu",
             "repo": "disba",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "dispersion",
               "geosciences",
@@ -279,7 +279,7 @@
             "open_issues": 4,
             "owner": "keurfonluu",
             "repo": "disba",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "dispersion",
               "geosciences",
@@ -824,7 +824,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T21:22:48Z",
-            "open_issues": 328,
+            "open_issues": 329,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1347,
@@ -857,7 +857,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T21:22:48Z",
-            "open_issues": 328,
+            "open_issues": 329,
             "owner": "obspy",
             "repo": "obspy",
             "stars": 1347,
@@ -2185,7 +2185,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T21:22:48Z",
-                "open_issues": 328,
+                "open_issues": 329,
                 "owner": "obspy",
                 "repo": "obspy",
                 "stars": 1347,
@@ -2204,6 +2204,48 @@
                 ]
               },
               "first_seen": "2026-08-28T17:44:30.820Z"
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-mineral-exploration",
+              "description": "Curated list of open-source software for mineral exploration, from geophysics and inversion to drillholes and geochemistry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of open-source software for mineral exploration: geophysics, geological modelling, drillholes, geostatistics and prospectivity mapping.",
+                "homepage": "https://xplorahub.com/methods",
+                "id": 1447312576,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2026-11-07T07:36:42Z",
+                "open_issues": 0,
+                "owner": "XploraHub",
+                "repo": "awesome-mineral-exploration",
+                "stars": 6,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cheatsheet",
+                  "exploration-geophysics",
+                  "geochemistry",
+                  "geology",
+                  "geophysics",
+                  "geoscience",
+                  "geospatial",
+                  "geostatistics",
+                  "hyperspectral",
+                  "machine-learning",
+                  "mineral-exploration",
+                  "mineral-prospectivity",
+                  "mining",
+                  "mining-technology",
+                  "open-source",
+                  "prospectivity-mapping",
+                  "python",
+                  "remote-sensing"
+                ]
+              },
+              "first_seen": "2026-11-07T11:57:20.583Z"
             }
           ],
           "description": "Tools and libraries for geophysical programming and analysis:",
@@ -2215,7 +2257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T13:17:36.379Z",
+    "last_updated": "2026-11-07T11:57:20.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
@@ -2223,8 +2265,8 @@
       "id": 952159674,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-02T03:32:39Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-07T08:04:30Z",
+      "open_issues": 1,
       "owner": "aradfarahani",
       "repo": "awesome-geophysics",
       "stars": 135,
@@ -2247,7 +2289,7 @@
         "seismology"
       ]
     },
-    "original_repository_sha": "172ef74fc0adb4336b8883bcbc772eb31cdf3350",
+    "original_repository_sha": "f9aac9b8f732e3986e6aff49c58c8070cb469dbb",
     "enhanced_repository": "enhansome/enhansome-geophysics",
     "enhanced_repository_description": null,
     "title": "Awesome Geophysics with stars"
