@@ -164,7 +164,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-02T20:25:55Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "brendanjmeade",
             "repo": "celeri",
             "stars": 39,
@@ -185,7 +185,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-02T20:25:55Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "brendanjmeade",
             "repo": "celeri",
             "stars": 39,
@@ -209,7 +209,7 @@
             "open_issues": 11,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 390,
+            "stars": 391,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -230,7 +230,7 @@
             "open_issues": 11,
             "owner": "ar4",
             "repo": "deepwave",
-            "stars": 390,
+            "stars": 391,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -984,7 +984,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T10:14:06Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "pastas",
             "repo": "pastas",
             "stars": 465,
@@ -1012,7 +1012,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T10:14:06Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "pastas",
             "repo": "pastas",
             "stars": 465,
@@ -1768,7 +1768,7 @@
             "open_issues": 114,
             "owner": "JohnWStockwellJr",
             "repo": "SeisUnix",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1789,7 +1789,7 @@
             "open_issues": 114,
             "owner": "JohnWStockwellJr",
             "repo": "SeisUnix",
-            "stars": 320,
+            "stars": 321,
             "topics": []
           },
           "first_seen": "2026-08-28T17:44:30.820Z"
@@ -1848,7 +1848,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-07T23:57:21Z",
+            "last_commit": "2026-11-09T13:28:17Z",
             "open_issues": 116,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -1873,7 +1873,7 @@
             "id": 318542339,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-07T23:57:21Z",
+            "last_commit": "2026-11-09T13:28:17Z",
             "open_issues": 116,
             "owner": "NDF-Poli-USP",
             "repo": "spyro",
@@ -2213,15 +2213,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "A curated list of open-source software for mineral exploration: geophysics, geological modelling, drillholes, geostatistics and prospectivity mapping.",
-                "homepage": "https://xplorahub.com/methods",
+                "homepage": "https://xplorahub.com",
                 "id": 1447312576,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-07T07:36:42Z",
+                "last_commit": "2026-11-09T08:24:49Z",
                 "open_issues": 0,
                 "owner": "XploraHub",
                 "repo": "awesome-mineral-exploration",
-                "stars": 6,
+                "stars": 17,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2257,7 +2257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:15:59.591Z",
+    "last_updated": "2026-11-09T14:26:18.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Geophysics is a community-curated resource offering essential tools, datasets, and educational materials for geophysical exploration. It’s designed to empower students, researchers, and professionals to analyze data, model Earth processes, and stay connected with the latest industry trends.",
@@ -2269,7 +2269,7 @@
       "open_issues": 1,
       "owner": "aradfarahani",
       "repo": "awesome-geophysics",
-      "stars": 135,
+      "stars": 137,
       "topics": [
         "awesome",
         "awesome-list",
